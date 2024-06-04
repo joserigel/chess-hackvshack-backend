@@ -3,3 +3,12 @@ node_modules
 
 # Build directory
 build/
+
+# Environment variables
+.env
+
+# MySQL Data
+sqlData
+
+# Private Key
+private.key
